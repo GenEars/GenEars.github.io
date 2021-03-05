@@ -19,3 +19,7 @@ nav:
    link: "index"
  - name: "Research Projects"
    link: "research"
+ - name: "Publications and Research Activities"
+   link: "publications"
+ - name: "Teaching"
+   link: "teaching"
