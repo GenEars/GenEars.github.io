@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: Teaching - Lionel TAILHARDAT
 ---
 
 ## Students (current)

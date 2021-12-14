@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Research - Lionel TAILHARDAT
 ---
 
 ## Research Areas

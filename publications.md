@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Publications
+title: Publications - Lionel TAILHARDAT
 ---
+
+ORCID : [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X)
 
 ## Research reports
 
