@@ -4,7 +4,7 @@ title: Teaching - Lionel TAILHARDAT
 ---
 
 ## Students (current)
-* None.
+* [2022] Mihary RANAIVOSON for his final year internship at [Polytech Marseille](https://polytech.univ-amu.fr/) in Computer Science
 
 ## Students (past)
 * [2018] Maria EL HINDY for her final year internship at [IMT Atlantique](https://www.imt-atlantique.fr/fr) F2R Réseau et Systèmes logiciels: "*Orchestration de la Supervision*"
