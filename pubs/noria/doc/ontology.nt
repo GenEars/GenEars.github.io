@@ -1,0 +1,165 @@
+<https://w3id.org/noria/ontology/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#versionIRI> <https://w3id.org/noria/ontology/noria-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/ApplicationOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/BBOAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/BOTAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/ChangeRequestOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/CommunicationOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/CoreOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/DevOpsInfraAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/FunctionalOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/LocationOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/NotificationOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/ObservableOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/OrganizationOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/PEPAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/RCAOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/ResourceOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/SEASAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/SLOGERTAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/TroubleTicketOntology-0.1> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/noria/ontology/UCOAlignment-0.1> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0001-5639-1504> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0001-5887-899X> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0003-0457-1436> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/description> "The NORIA-O project is a data model for IT networks, events and operations information.\n     The ontology is developed using web technologies (e.g. RDF, OWL, SKOS) and is intended as a structure for realizing an IT Service Management (ITSM) Knowledge Graph (KG) for Anomaly Detection (AD) and Risk Management applications.\n     The model has been developed in collaboration with operational teams, and in connection with third parties linked vocabularies."@en .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/issued> "2022-03-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/license> <https://spdx.org/licenses/BSD-4-Clause> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/publisher> <https://hellofuture.orange.com/> .
+<https://w3id.org/noria/ontology/> <http://purl.org/dc/terms/title> "The NORIA Ontology"@en .
+<https://w3id.org/noria/ontology/> <http://purl.org/ontology/bibo/status> <http://purl.org/ontology/bibo/status/draft> .
+<https://w3id.org/noria/ontology/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "noria" .
+<https://w3id.org/noria/ontology/> <http://purl.org/vocab/vann/preferredNamespaceUri> "https://w3id.org/noria/ontology/" .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2000/01/rdf-schema#comment> "TBD."@en .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/noria/DAV/home/noria/doc/index-en.html> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/noria/DAV/home/noria/doc/index-fr.html> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/2002/07/owl#versionInfo> "v0.1" .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/ns/dcat#downloadURL> <https://w3id.org/noria/DAV/home/noria/rdf_sink/noria-0.1.ttl> .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://purl.org/dc/terms/contributor
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/creator
+<http://purl.org/dc/terms/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/description
+<http://purl.org/dc/terms/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/issued
+<http://purl.org/dc/terms/issued> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/license
+<http://purl.org/dc/terms/license> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/modified
+<http://purl.org/dc/terms/modified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/publisher
+<http://purl.org/dc/terms/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/title
+<http://purl.org/dc/terms/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/ontology/bibo/status
+<http://purl.org/ontology/bibo/status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/vocab/vann/preferredNamespacePrefix
+<http://purl.org/vocab/vann/preferredNamespacePrefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/vocab/vann/preferredNamespaceUri
+<http://purl.org/vocab/vann/preferredNamespaceUri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/2003/06/sw-vocab-status/ns#term_status
+<http://www.w3.org/2003/06/sw-vocab-status/ns#term_status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/2006/vcard/ns#fn
+<http://www.w3.org/2006/vcard/ns#fn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/dcat#downloadURL
+<http://www.w3.org/ns/dcat#downloadURL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# https://schema.org/name
+<https://schema.org/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Data properties
+# #
+# #################################################################
+# 
+# 
+# http://xmlns.com/foaf/0.1/name
+<http://xmlns.com/foaf/0.1/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://purl.org/vocommons/voaf#Vocabulary
+<http://purl.org/vocommons/voaf#Vocabulary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://www.w3.org/2006/vcard/ns#Individual
+<http://www.w3.org/2006/vcard/ns#Individual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://xmlns.com/foaf/0.1/Person
+<http://xmlns.com/foaf/0.1/Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# https://schema.org/Person
+<https://schema.org/Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Individuals
+# #
+# #################################################################
+# 
+# 
+# https://w3id.org/noria/ontology/
+<https://w3id.org/noria/ontology/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/noria/ontology/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+# 
+# https://orcid.org/0000-0001-5639-1504
+<https://orcid.org/0000-0001-5639-1504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://orcid.org/0000-0001-5639-1504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Individual> .
+<https://orcid.org/0000-0001-5639-1504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://orcid.org/0000-0001-5639-1504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://orcid.org/0000-0001-5639-1504> <http://xmlns.com/foaf/0.1/name> "Yoan Chabot" .
+<https://orcid.org/0000-0001-5639-1504> <http://www.w3.org/2006/vcard/ns#fn> "Yoan Chabot" .
+<https://orcid.org/0000-0001-5639-1504> <https://schema.org/name> "Yoan Chabot" .
+# 
+# https://orcid.org/0000-0001-5887-899X
+<https://orcid.org/0000-0001-5887-899X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://orcid.org/0000-0001-5887-899X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Individual> .
+<https://orcid.org/0000-0001-5887-899X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://orcid.org/0000-0001-5887-899X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://orcid.org/0000-0001-5887-899X> <http://xmlns.com/foaf/0.1/name> "Lionel Tailhardat" .
+<https://orcid.org/0000-0001-5887-899X> <http://www.w3.org/2006/vcard/ns#fn> "Lionel Tailhardat" .
+<https://orcid.org/0000-0001-5887-899X> <https://schema.org/name> "Lionel Tailhardat" .
+# 
+# https://orcid.org/0000-0003-0457-1436
+<https://orcid.org/0000-0003-0457-1436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://orcid.org/0000-0003-0457-1436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Individual> .
+<https://orcid.org/0000-0003-0457-1436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://orcid.org/0000-0003-0457-1436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://orcid.org/0000-0003-0457-1436> <http://xmlns.com/foaf/0.1/name> "Raphaël Troncy" .
+<https://orcid.org/0000-0003-0457-1436> <http://www.w3.org/2006/vcard/ns#fn> "Raphaël Troncy" .
+<https://orcid.org/0000-0003-0457-1436> <https://schema.org/name> "Raphaël Troncy" .
+# 
+# Generated by the OWL API (version 5.1.14) https://github.com/owlcs/owlapi/

@@ -1,0 +1,191 @@
+[ {
+  "@id" : "https://w3id.org/noria/ontology/",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology", "http://www.w3.org/2002/07/owl#NamedIndividual", "http://purl.org/vocommons/voaf#Vocabulary" ],
+  "http://purl.org/dc/terms/creator" : [ {
+    "@id" : "https://orcid.org/0000-0001-5639-1504"
+  }, {
+    "@id" : "https://orcid.org/0000-0001-5887-899X"
+  }, {
+    "@id" : "https://orcid.org/0000-0003-0457-1436"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "The NORIA-O project is a data model for IT networks, events and operations information.\n     The ontology is developed using web technologies (e.g. RDF, OWL, SKOS) and is intended as a structure for realizing an IT Service Management (ITSM) Knowledge Graph (KG) for Anomaly Detection (AD) and Risk Management applications.\n     The model has been developed in collaboration with operational teams, and in connection with third parties linked vocabularies."
+  } ],
+  "http://purl.org/dc/terms/issued" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "2022-03-25"
+  } ],
+  "http://purl.org/dc/terms/license" : [ {
+    "@id" : "https://spdx.org/licenses/BSD-4-Clause"
+  } ],
+  "http://purl.org/dc/terms/publisher" : [ {
+    "@id" : "https://hellofuture.orange.com/"
+  } ],
+  "http://purl.org/dc/terms/title" : [ {
+    "@language" : "en",
+    "@value" : "The NORIA Ontology"
+  } ],
+  "http://purl.org/ontology/bibo/status" : [ {
+    "@id" : "http://purl.org/ontology/bibo/status/draft"
+  } ],
+  "http://purl.org/vocab/vann/preferredNamespacePrefix" : [ {
+    "@value" : "noria"
+  } ],
+  "http://purl.org/vocab/vann/preferredNamespaceUri" : [ {
+    "@value" : "https://w3id.org/noria/ontology/"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "TBD."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#seeAlso" : [ {
+    "@id" : "https://w3id.org/noria/DAV/home/noria/doc/index-en.html"
+  }, {
+    "@id" : "https://w3id.org/noria/DAV/home/noria/doc/index-fr.html"
+  } ],
+  "http://www.w3.org/2002/07/owl#imports" : [ {
+    "@id" : "https://w3id.org/noria/ontology/ApplicationOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/BBOAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/BOTAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/ChangeRequestOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/CommunicationOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/CoreOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/DevOpsInfraAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/FunctionalOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/LocationOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/NotificationOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/ObservableOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/OrganizationOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/PEPAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/RCAOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/ResourceOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/SEASAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/SLOGERTAlignment-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/TroubleTicketOntology-0.1"
+  }, {
+    "@id" : "https://w3id.org/noria/ontology/UCOAlignment-0.1"
+  } ],
+  "http://www.w3.org/2002/07/owl#versionIRI" : [ {
+    "@id" : "https://w3id.org/noria/ontology/noria-0.1"
+  } ],
+  "http://www.w3.org/2002/07/owl#versionInfo" : [ {
+    "@value" : "v0.1"
+  } ],
+  "http://www.w3.org/ns/dcat#downloadURL" : [ {
+    "@id" : "https://w3id.org/noria/DAV/home/noria/rdf_sink/noria-0.1.ttl"
+  } ]
+}, {
+  "@id" : "http://purl.org/dc/terms/contributor",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/creator",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/description",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/issued",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/license",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/modified",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/publisher",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/title",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/ontology/bibo/status",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/vocab/vann/preferredNamespacePrefix",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/vocab/vann/preferredNamespaceUri",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/vocommons/voaf#Vocabulary",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.w3.org/2003/06/sw-vocab-status/ns#term_status",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/2006/vcard/ns#Individual",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.w3.org/2006/vcard/ns#fn",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/dcat#downloadURL",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://xmlns.com/foaf/0.1/Person",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://xmlns.com/foaf/0.1/name",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ]
+}, {
+  "@id" : "https://orcid.org/0000-0001-5639-1504",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.w3.org/2006/vcard/ns#Individual", "http://xmlns.com/foaf/0.1/Person", "https://schema.org/Person" ],
+  "http://www.w3.org/2006/vcard/ns#fn" : [ {
+    "@value" : "Yoan Chabot"
+  } ],
+  "http://xmlns.com/foaf/0.1/name" : [ {
+    "@value" : "Yoan Chabot"
+  } ],
+  "https://schema.org/name" : [ {
+    "@value" : "Yoan Chabot"
+  } ]
+}, {
+  "@id" : "https://orcid.org/0000-0001-5887-899X",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.w3.org/2006/vcard/ns#Individual", "http://xmlns.com/foaf/0.1/Person", "https://schema.org/Person" ],
+  "http://www.w3.org/2006/vcard/ns#fn" : [ {
+    "@value" : "Lionel Tailhardat"
+  } ],
+  "http://xmlns.com/foaf/0.1/name" : [ {
+    "@value" : "Lionel Tailhardat"
+  } ],
+  "https://schema.org/name" : [ {
+    "@value" : "Lionel Tailhardat"
+  } ]
+}, {
+  "@id" : "https://orcid.org/0000-0003-0457-1436",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.w3.org/2006/vcard/ns#Individual", "http://xmlns.com/foaf/0.1/Person", "https://schema.org/Person" ],
+  "http://www.w3.org/2006/vcard/ns#fn" : [ {
+    "@value" : "Raphaël Troncy"
+  } ],
+  "http://xmlns.com/foaf/0.1/name" : [ {
+    "@value" : "Raphaël Troncy"
+  } ],
+  "https://schema.org/name" : [ {
+    "@value" : "Raphaël Troncy"
+  } ]
+}, {
+  "@id" : "https://schema.org/Person",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "https://schema.org/name",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+} ]

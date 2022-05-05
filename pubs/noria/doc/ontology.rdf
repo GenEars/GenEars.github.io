@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/noria/ontology/"
+     xml:base="https://w3id.org/noria/ontology/"
+     xmlns:ns="http://www.w3.org/2006/vcard/ns#"
+     xmlns:ns1="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:bibo="http://purl.org/ontology/bibo/"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:schema="https://schema.org/">
+    <owl:Ontology rdf:about="https://w3id.org/noria/ontology/">
+        <owl:versionIRI rdf:resource="https://w3id.org/noria/ontology/noria-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/ApplicationOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/BBOAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/BOTAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/ChangeRequestOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/CommunicationOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/CoreOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/DevOpsInfraAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/FunctionalOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/LocationOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/NotificationOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/ObservableOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/OrganizationOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/PEPAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/RCAOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/ResourceOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/SEASAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/SLOGERTAlignment-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/TroubleTicketOntology-0.1"/>
+        <owl:imports rdf:resource="https://w3id.org/noria/ontology/UCOAlignment-0.1"/>
+        <terms:creator rdf:resource="https://orcid.org/0000-0001-5639-1504"/>
+        <terms:creator rdf:resource="https://orcid.org/0000-0001-5887-899X"/>
+        <terms:creator rdf:resource="https://orcid.org/0000-0003-0457-1436"/>
+        <terms:description xml:lang="en">The NORIA-O project is a data model for IT networks, events and operations information.
+     The ontology is developed using web technologies (e.g. RDF, OWL, SKOS) and is intended as a structure for realizing an IT Service Management (ITSM) Knowledge Graph (KG) for Anomaly Detection (AD) and Risk Management applications.
+     The model has been developed in collaboration with operational teams, and in connection with third parties linked vocabularies.</terms:description>
+        <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-25</terms:issued>
+        <terms:license rdf:resource="https://spdx.org/licenses/BSD-4-Clause"/>
+        <terms:publisher rdf:resource="https://hellofuture.orange.com/"/>
+        <terms:title xml:lang="en">The NORIA Ontology</terms:title>
+        <bibo:status rdf:resource="http://purl.org/ontology/bibo/status/draft"/>
+        <vann:preferredNamespacePrefix>noria</vann:preferredNamespacePrefix>
+        <vann:preferredNamespaceUri>https://w3id.org/noria/ontology/</vann:preferredNamespaceUri>
+        <rdfs:comment xml:lang="en">TBD.</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/noria/DAV/home/noria/doc/index-en.html"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/noria/DAV/home/noria/doc/index-fr.html"/>
+        <owl:versionInfo>v0.1</owl:versionInfo>
+        <dcat:downloadURL rdf:resource="https://w3id.org/noria/DAV/home/noria/rdf_sink/noria-0.1.ttl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.org/dc/terms/contributor -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/creator -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/issued -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/issued"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/license -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/publisher -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/title -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title"/>
+    
+
+
+    <!-- http://purl.org/ontology/bibo/status -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/ontology/bibo/status"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespacePrefix -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespacePrefix"/>
+    
+
+
+    <!-- http://purl.org/vocab/vann/preferredNamespaceUri -->
+
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri"/>
+    
+
+
+    <!-- http://www.w3.org/2003/06/sw-vocab-status/ns#term_status -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2003/06/sw-vocab-status/ns#term_status"/>
+    
+
+
+    <!-- http://www.w3.org/2006/vcard/ns#fn -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2006/vcard/ns#fn"/>
+    
+
+
+    <!-- http://www.w3.org/ns/dcat#downloadURL -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/ns/dcat#downloadURL"/>
+    
+
+
+    <!-- https://schema.org/name -->
+
+
+    <owl:AnnotationProperty rdf:about="https://schema.org/name"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+
+    <owl:DatatypeProperty rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- http://purl.org/vocommons/voaf#Vocabulary -->
+
+
+    <owl:Class rdf:about="http://purl.org/vocommons/voaf#Vocabulary"/>
+    
+
+
+    <!-- http://www.w3.org/2006/vcard/ns#Individual -->
+
+
+    <owl:Class rdf:about="http://www.w3.org/2006/vcard/ns#Individual"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+    
+
+
+    <!-- https://schema.org/Person -->
+
+
+    <owl:Class rdf:about="https://schema.org/Person"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    
+
+
+    <!-- https://w3id.org/noria/ontology/ -->
+
+
+    <owl:NamedIndividual rdf:about="https://w3id.org/noria/ontology/">
+        <rdf:type rdf:resource="http://purl.org/vocommons/voaf#Vocabulary"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://orcid.org/0000-0001-5639-1504 -->
+
+
+    <owl:NamedIndividual rdf:about="https://orcid.org/0000-0001-5639-1504">
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Individual"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdf:type rdf:resource="https://schema.org/Person"/>
+        <foaf:name>Yoan Chabot</foaf:name>
+        <ns:fn>Yoan Chabot</ns:fn>
+        <schema:name>Yoan Chabot</schema:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://orcid.org/0000-0001-5887-899X -->
+
+
+    <owl:NamedIndividual rdf:about="https://orcid.org/0000-0001-5887-899X">
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Individual"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdf:type rdf:resource="https://schema.org/Person"/>
+        <foaf:name>Lionel Tailhardat</foaf:name>
+        <ns:fn>Lionel Tailhardat</ns:fn>
+        <schema:name>Lionel Tailhardat</schema:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://orcid.org/0000-0003-0457-1436 -->
+
+
+    <owl:NamedIndividual rdf:about="https://orcid.org/0000-0003-0457-1436">
+        <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Individual"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdf:type rdf:resource="https://schema.org/Person"/>
+        <foaf:name>Raphaël Troncy</foaf:name>
+        <ns:fn>Raphaël Troncy</ns:fn>
+        <schema:name>Raphaël Troncy</schema:name>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 5.1.14) https://github.com/owlcs/owlapi/ -->
+
+

@@ -1,0 +1,376 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
+  "header" : {
+    "languages" : [ "en", "undefined" ],
+    "baseIris" : [ "http://www.w3.org/1999/02/22-rdf-syntax-ns", "http://purl.org/vocommons/voaf", "http://www.w3.org/2000/01/rdf-schema", "https://schema.org", "http://www.w3.org/2001/XMLSchema", "http://xmlns.com/foaf/0.1", "http://www.w3.org/2006/vcard/ns" ],
+    "title" : {
+      "en" : "The NORIA Ontology"
+    },
+    "iri" : "https://w3id.org/noria/ontology/",
+    "version" : "v0.1",
+    "author" : [ "https://orcid.org/0000-0003-0457-1436", "https://orcid.org/0000-0001-5639-1504", "https://orcid.org/0000-0001-5887-899X" ],
+    "description" : {
+      "en" : "The NORIA-O project is a data model for IT networks, events and operations information.\n     The ontology is developed using web technologies (e.g. RDF, OWL, SKOS) and is intended as a structure for realizing an IT Service Management (ITSM) Knowledge Graph (KG) for Anomaly Detection (AD) and Risk Management applications.\n     The model has been developed in collaboration with operational teams, and in connection with third parties linked vocabularies."
+    },
+    "comments" : {
+      "en" : "TBD."
+    },
+    "other" : {
+      "license" : [ {
+        "identifier" : "license",
+        "language" : "undefined",
+        "value" : "https://spdx.org/licenses/BSD-4-Clause",
+        "type" : "iri"
+      } ],
+      "creator" : [ {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "https://orcid.org/0000-0003-0457-1436",
+        "type" : "iri"
+      }, {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "https://orcid.org/0000-0001-5887-899X",
+        "type" : "iri"
+      }, {
+        "identifier" : "creator",
+        "language" : "undefined",
+        "value" : "https://orcid.org/0000-0001-5639-1504",
+        "type" : "iri"
+      } ],
+      "preferredNamespacePrefix" : [ {
+        "identifier" : "preferredNamespacePrefix",
+        "language" : "undefined",
+        "value" : "noria",
+        "type" : "label"
+      } ],
+      "downloadURL" : [ {
+        "identifier" : "downloadURL",
+        "language" : "undefined",
+        "value" : "https://w3id.org/noria/DAV/home/noria/rdf_sink/noria-0.1.ttl",
+        "type" : "iri"
+      } ],
+      "publisher" : [ {
+        "identifier" : "publisher",
+        "language" : "undefined",
+        "value" : "https://hellofuture.orange.com/",
+        "type" : "iri"
+      } ],
+      "versionInfo" : [ {
+        "identifier" : "versionInfo",
+        "language" : "undefined",
+        "value" : "v0.1",
+        "type" : "label"
+      } ],
+      "preferredNamespaceUri" : [ {
+        "identifier" : "preferredNamespaceUri",
+        "language" : "undefined",
+        "value" : "https://w3id.org/noria/ontology/",
+        "type" : "label"
+      } ],
+      "issued" : [ {
+        "identifier" : "issued",
+        "language" : "undefined",
+        "value" : "2022-03-25",
+        "type" : "label"
+      } ],
+      "title" : [ {
+        "identifier" : "title",
+        "language" : "en",
+        "value" : "The NORIA Ontology",
+        "type" : "label"
+      } ],
+      "seeAlso" : [ {
+        "identifier" : "seeAlso",
+        "language" : "undefined",
+        "value" : "https://w3id.org/noria/DAV/home/noria/doc/index-fr.html",
+        "type" : "iri"
+      }, {
+        "identifier" : "seeAlso",
+        "language" : "undefined",
+        "value" : "https://w3id.org/noria/DAV/home/noria/doc/index-en.html",
+        "type" : "iri"
+      } ],
+      "status" : [ {
+        "identifier" : "status",
+        "language" : "undefined",
+        "value" : "http://purl.org/ontology/bibo/status/draft",
+        "type" : "iri"
+      } ]
+    }
+  },
+  "namespace" : [ ],
+  "class" : [ {
+    "id" : "0",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "1",
+    "type" : "rdfs:Literal"
+  }, {
+    "id" : "2",
+    "type" : "owl:Class"
+  }, {
+    "id" : "3",
+    "type" : "owl:Class"
+  }, {
+    "id" : "4",
+    "type" : "owl:Class"
+  }, {
+    "id" : "6",
+    "type" : "owl:Class"
+  } ],
+  "classAttribute" : [ {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "0",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2000/01/rdf-schema#Literal",
+    "id" : "1",
+    "label" : {
+      "IRI-based" : "Literal",
+      "undefined" : "Literal"
+    }
+  }, {
+    "iri" : "http://purl.org/vocommons/voaf#Vocabulary",
+    "baseIri" : "http://purl.org/vocommons/voaf",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Vocabulary"
+    },
+    "individuals" : [ {
+      "iri" : "https://w3id.org/noria/ontology/",
+      "baseIri" : "http://data-noria.innov.intraorange",
+      "labels" : { }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "2"
+  }, {
+    "iri" : "http://xmlns.com/foaf/0.1/Person",
+    "baseIri" : "http://xmlns.com/foaf/0.1",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Person"
+    },
+    "individuals" : [ {
+      "iri" : "https://orcid.org/0000-0003-0457-1436",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0003-0457-1436"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5639-1504",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ],
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5639-1504"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5887-899X",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5887-899X"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "3"
+  }, {
+    "iri" : "https://schema.org/Person",
+    "baseIri" : "https://schema.org",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Person"
+    },
+    "individuals" : [ {
+      "iri" : "https://orcid.org/0000-0003-0457-1436",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0003-0457-1436"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5639-1504",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ],
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5639-1504"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5887-899X",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5887-899X"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "4"
+  }, {
+    "iri" : "http://www.w3.org/2006/vcard/ns#Individual",
+    "baseIri" : "http://www.w3.org/2006/vcard/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Individual"
+    },
+    "individuals" : [ {
+      "iri" : "https://orcid.org/0000-0003-0457-1436",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Raphaël Troncy",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0003-0457-1436"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5639-1504",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ],
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Yoan Chabot",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5639-1504"
+      }
+    }, {
+      "iri" : "https://orcid.org/0000-0001-5887-899X",
+      "baseIri" : "https://orcid.org",
+      "annotations" : {
+        "fn" : [ {
+          "identifier" : "fn",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ],
+        "name" : [ {
+          "identifier" : "name",
+          "language" : "undefined",
+          "value" : "Lionel Tailhardat",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "0000-0001-5887-899X"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "6"
+  } ],
+  "property" : [ {
+    "id" : "5",
+    "type" : "owl:datatypeProperty"
+  } ],
+  "propertyAttribute" : [ {
+    "iri" : "http://xmlns.com/foaf/0.1/name",
+    "baseIri" : "http://xmlns.com/foaf/0.1",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "name"
+    },
+    "domain" : "0",
+    "attributes" : [ "external", "datatype" ],
+    "id" : "5"
+  } ]
+}
