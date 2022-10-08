@@ -17,7 +17,7 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
 ## Research reports
 
 * Mihary RANAIVOSON, Lionel TAILHARDAT, et Yoan CHABOT. « *Intégration de données dans un graphe de connaissances pour la détection d’anomalies sur le réseau* ». Mémoire & présentation. Orange & Polytech Marseille, 16 septembre 2022.
-* Bertrand Decocq, et al. « *Methodology to assess network resilience* ». Research report. Orange, july 2022.
+* Bertrand DECOCQ, et al. « *Methodology to assess network resilience* ». Research report. Orange, july 2022.
 * Lionel TAILHARDAT. « *MillionLogs: discrimination-classification de logs par mesure de similarité et d’entropie positionnelle* ». Rapport de recherche. Orange, mars 2019.
 * Lionel TAILHARDAT. « *Arbres de causalité et phénomènes de diffusion d’alarmes* ». Rapport de recherche. Orange, février 2019.
 * Maria EL HINDY, et Lionel TAILHARDAT. « *Orchestration de la Supervision* ». Mémoire & présentation. Orange & IMT Atlantique, 14 septembre 2018.
