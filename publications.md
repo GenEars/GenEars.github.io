@@ -11,11 +11,13 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
   « *Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering.* »
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
   ACM, New York, NY, USA, 6 pages.
-  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)].
+  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s),[pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)].
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY. « *NORIA : machiNe learning, Ontology and Reasoning for the Identification of Anomalies* ». Position poster for the [IA2](https://ia2.gdria.fr/) autumn school. Orange-Eurecom, 2021 september [[pdf](pubs/IA2-2021-NORIA-POSTER.pdf)].
 
 ## Research reports
 
+* Mihary RANAIVOSON, Lionel TAILHARDAT, et Yoan CHABOT. « *Intégration de données dans un graphe de connaissances pour la détection d’anomalies sur le réseau* ». Mémoire & présentation. Orange & Polytech Marseille, 16 septembre 2022.
+* Bertrand DECOCQ, et al. « *Methodology to assess network resilience* ». Research report. Orange, july 2022.
 * Lionel TAILHARDAT. « *MillionLogs: discrimination-classification de logs par mesure de similarité et d’entropie positionnelle* ». Rapport de recherche. Orange, mars 2019.
 * Lionel TAILHARDAT. « *Arbres de causalité et phénomènes de diffusion d’alarmes* ». Rapport de recherche. Orange, février 2019.
 * Maria EL HINDY, et Lionel TAILHARDAT. « *Orchestration de la Supervision* ». Mémoire & présentation. Orange & IMT Atlantique, 14 septembre 2018.
