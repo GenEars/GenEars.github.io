@@ -21,6 +21,7 @@ Current projects at Orange:
   * *[grlc](https://github.com/Orange-OpenSource/grlc)*, a fork of [CLARIAH/grlc](https://github.com/CLARIAH/grlc) with SPARQL UPDATE and GitLab interface features.
   * *[SMASSIF-RML](https://github.com/Orange-OpenSource/SMASSIF-RML)*, a Semantic Web stream processing solution with declarative data mapping capability based on a modified version of the [RMLMapper-java](https://github.com/RMLio/rmlmapper-java) tool and extensions to the [StreamingMASSIF](https://github.com/IBCNServices/StreamingMASSIF) framework.
   * *[ssb-consum-up](https://github.com/Orange-OpenSource/ssb-consum-up)*, a Kafka to SPARQL gateway enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.
+  * *[SemNIDS](https://github.com/D2KLab/SemNIDS)*, bringing semantics into Network Intrusion Detection Systems.  
 
 ## Past projects
 
