@@ -28,8 +28,3 @@ Enjoy your visit!
 
 My CV is available [here](https://www.linkedin.com/in/lionel-tailhardat-566510120/) (LinkedIn).
 
-## Twitter Feed
-<div class="jekyll-twitter-plugin" align="center">
-    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-height="250" data-tweet-limit="5" href="https://twitter.com/TailhardatL?ref_src=twsrc%5Etfw">Tweets by TailhardatL</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
