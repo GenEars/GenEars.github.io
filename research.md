@@ -9,7 +9,9 @@ title: Research - Lionel TAILHARDAT
 * Knowledge Representation
 * Incident Management
 
-## Current projects
+## Projects
+
+### Current
 
 Current projects at Orange:
 
@@ -23,10 +25,14 @@ Current projects at Orange:
   * *[ssb-consum-up](https://github.com/Orange-OpenSource/ssb-consum-up)*, a Kafka to SPARQL gateway enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.
   * *[SemNIDS](https://github.com/D2KLab/SemNIDS)*, bringing semantics into Network Intrusion Detection Systems.  
 
-## Past projects
+### Past
 
 Past projects at Orange:
 
 * Merging graphs and time-series techniques to predict network issues and reduce the root-cause search space,
 * Knowledge and process mining on network issues remediation to facilitate root-cause analysis and remediation automation,
 * Automating the resilience tests of an IP-MPLS backbone.
+
+## Activities
+
+* PC member of Industry @ [TheWebConf2023-Companion](https://www2023.thewebconf.org/)
