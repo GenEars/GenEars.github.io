@@ -7,6 +7,11 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
 
 ## Research Papers in Conferences
 
+* Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
+  « *Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems*
+  In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
+  28, 2023, Crete, GRE, 16 pages.
+  [[OpenReview.net](https://openreview.net/forum?id=XxYQghsHi-g), [KGCW paper](https://kg-construct.github.io/workshop/2023/resources/paper3.pdf)]. 
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2022.
   « *Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering.* »
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
