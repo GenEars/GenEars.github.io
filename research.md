@@ -11,9 +11,9 @@ title: Research - Lionel TAILHARDAT
 
 ## Projects
 
-### Current
+### Current projects
 
-Current projects at Orange:
+Orange:
 
 * Synergy between knowledge graphs and machine learning for the detection of anomalies.  
   
@@ -25,9 +25,9 @@ Current projects at Orange:
   * *[ssb-consum-up](https://github.com/Orange-OpenSource/ssb-consum-up)*, a Kafka to SPARQL gateway enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.
   * *[SemNIDS](https://github.com/D2KLab/SemNIDS)*, bringing semantics into Network Intrusion Detection Systems.  
 
-### Past
+### Past projects
 
-Past projects at Orange:
+Orange:
 
 * Merging graphs and time-series techniques to predict network issues and reduce the root-cause search space,
 * Knowledge and process mining on network issues remediation to facilitate root-cause analysis and remediation automation,
@@ -35,4 +35,5 @@ Past projects at Orange:
 
 ## Activities
 
-* PC member of Industry @ [TheWebConf2023-Companion](https://www2023.thewebconf.org/)
+* Program Chair member of Industry @ [TheWebConf2023](https://www2023.thewebconf.org/)
+* Program Chair member of Knowledge Graph Construction Workshop ([KGCW 2023](https://kg-construct.github.io/workshop/2023/)) @ [ESWC 2023](https://2023.eswc-conferences.org/)
