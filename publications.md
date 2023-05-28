@@ -11,12 +11,12 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
   « *Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems*
   In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
   28, 2023, Crete, GRE, 16 pages.
-  [[OpenReview.net](https://openreview.net/forum?id=XxYQghsHi-g), [KGCW paper](https://kg-construct.github.io/workshop/2023/resources/paper3.pdf)]. 
+  [[OpenReview.net](https://openreview.net/forum?id=XxYQghsHi-g), [KGCW paper](https://kg-construct.github.io/workshop/2023/resources/paper3.pdf), [pres-pdf](pubs/KGCW-2023-noria-platform-pres.pdf)]. 
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2022.
   « *Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering.* »
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
   ACM, New York, NY, USA, 6 pages.
-  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s),[pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)].
+  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)].
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY. « *NORIA : machiNe learning, Ontology and Reasoning for the Identification of Anomalies* ». Position poster for the [IA2](https://ia2.gdria.fr/) autumn school. Orange-Eurecom, 2021 september [[pdf](pubs/IA2-2021-NORIA-POSTER.pdf)].
 
 ## Research reports
