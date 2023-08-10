@@ -8,6 +8,11 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
 ## Research Papers in Conferences
 
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
+  « *Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems*
+  In The 18th International Conference on Availability, Reliability and Security (ARES 2023), August 29-September 1, 2023, Benevento, Italy.
+  ACM, New York, NY, USA, 9 pages.
+  [https://doi.org/10.1145/3600160.3604991](https://doi.org/10.1145/3600160.3604991) [[EURECOM access](https://www.eurecom.fr/publication/7342)]
+* Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
   « *Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems*
   In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
   28, 2023, Crete.
