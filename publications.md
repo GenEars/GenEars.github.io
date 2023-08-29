@@ -8,12 +8,12 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
 ## Research Papers in Conferences
 
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
-  « *Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems*
+  « *Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems* »
   In The 18th International Conference on Availability, Reliability and Security (ARES 2023), August 29-September 1, 2023, Benevento, Italy.
   ACM, New York, NY, USA, 9 pages.
-  [https://doi.org/10.1145/3600160.3604991](https://doi.org/10.1145/3600160.3604991) [[EURECOM access](https://www.eurecom.fr/publication/7342)]
+  [https://doi.org/10.1145/3600160.3604991](https://doi.org/10.1145/3600160.3604991) [[pres-pdf](pubs/GRASEC-2023-noria-ad-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7342)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
-  « *Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems*
+  « *Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems* »
   In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
   28, 2023, Crete.
   [[OpenReview.net](https://openreview.net/forum?id=XxYQghsHi-g), [KGCW paper](https://kg-construct.github.io/workshop/2023/resources/paper3.pdf), [pres-pdf](pubs/KGCW-2023-noria-platform-pres.pdf)]. 
@@ -40,9 +40,11 @@ ORCID [0000-0001-5887-899X](https://orcid.org/0000-0001-5887-899X) - [Google Sch
 ## Thesis
 
 Datascience thesis:
+
 * Lionel TAILHARDAT. « *Localisation d’un incident en moins de 15 minutes, une approche par les graphes* ». Mémoire & présentation. Orange & Polytech, 23 mai 2019.
 
 Master thesis:
+
 * Lionel TAILHARDAT. « *Automatisation des tests de redondance du réseau Orange M.I.D.* ». Mémoire & présentation. Orange & CNAM, 8 juin 2018.
 * Lionel TAILHARDAT. « *Les techniques de géolocalisation en WIFI: principes, performances, comparaison* ». Synthèse bibliographique & tests. CNAM, 24 mai 2016.
 * Lionel TAILHARDAT, et Arsène MOUAMBOUMA. « *xDSL (VDSL, SDSL, ...) : la montée en débit* ». Présentation. CNAM, 7 avril 2016.
