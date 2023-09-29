@@ -40,3 +40,4 @@ Orange:
 * Program Chair member of Industry @ [TheWebConf2023](https://www2023.thewebconf.org/).
 * Program Chair member of Knowledge Graph Construction Workshop ([KGCW 2023](https://kg-construct.github.io/workshop/2023/)) @ [ESWC 2023](https://2023.eswc-conferences.org/).
 * Participant in the W3C [Knowledge Graph Construction Community Group](https://www.w3.org/community/kg-construct/).
+* Program Chair member of Industry @ [TheWebConf2024](https://www2024.thewebconf.org/calls/industry/).
