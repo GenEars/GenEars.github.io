@@ -23,8 +23,3 @@ I am currently a PhD candidate supervised by Dr. [Yoan Chabot](https://yoanchabo
 My work is focused on the synergy of symbolic and probabilistic reasoning to facilitate the analysis of incidents in the field of network operations and cybersecurity (thesis subject [here](http://www.theses.fr/s278014) and [here](https://myedb.edite-de-paris.fr/PRD_View/8053/)).
 
 Enjoy your visit!
-
-## Curriculum Vitae
-
-My CV is available [here](https://www.linkedin.com/in/lionel-tailhardat-566510120/) (LinkedIn).
-

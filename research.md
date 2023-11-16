@@ -3,12 +3,6 @@ layout: default
 title: Research - Lionel TAILHARDAT
 ---
 
-## Research Areas
-
-* Semantic Web
-* Knowledge Representation
-* Incident Management
-
 ## Projects
 
 ### Current projects
