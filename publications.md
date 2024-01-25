@@ -3,7 +3,7 @@ layout: default
 title: Publications - Lionel TAILHARDAT
 ---
 
-## Research Papers in Conferences
+## Research papers in conferences
 
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
   "*Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems*"
