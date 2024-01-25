@@ -17,4 +17,4 @@ title: Teaching - Lionel TAILHARDAT
 
 ## Courses
 
-* [2021] Industrial use-case explanation at [CentralSupélec](https://www.centralesupelec.fr/) - [LGI Safety & Risks](http://lgi.centralesupelec.fr/en/node/167) chair: "*Eléments d’exploitation des réseaux pour une conception raisonnable*" ([LinkedIn post](https://www.linkedin.com/posts/activity-6772189715404857344-tAsY))
+* [2021] Industrial use-case explanation at [CentralSupélec](https://www.centralesupelec.fr/) - [LGI Safety & Risks](http://lgi.centralesupelec.fr/en/node/167) chair: "*Eléments d’exploitation des réseaux pour une conception raisonnable*" ([pres-pdf](pubs/lgi_orange_2020-2021_lecture.pdf), [LinkedIn post](https://www.linkedin.com/posts/activity-6772189715404857344-tAsY))

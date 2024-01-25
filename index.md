@@ -8,7 +8,7 @@ title: About Me - Lionel TAILHARDAT
 <img class="profile-picture" src="me.jpg">
 
 Welcome to my personal page.
-You'll find here some elements about my professional activities and hobbies!
+You'll find here some elements about my professional activities!
 
 I am a research engineer in the INNOV/DATA-AI department at [Orange Labs Chatillon](https://hellofuture.orange.com/fr/).
 My research is about **knowledge engineering** and **dependability**.
