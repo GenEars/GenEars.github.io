@@ -5,6 +5,14 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research papers in conferences
 
+* Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2024.
+  "*NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems*"
+  In 21st European Semantic Web Conference (ESWC), Resources track, May 26-30, 2024, Hersonissos, Greece.
+  (*ref. to come*)
+* Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, and Raphaël TRONCY. 2024.
+  "*Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs*"
+  In The Web Conf, May 13-17, 2024, Singapore.
+  (*ref. to come*)
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
   "*Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems*"
   In The 18th International Conference on Availability, Reliability and Security (ARES 2023), August 29-September 1, 2023, Benevento, Italy.
