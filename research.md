@@ -35,3 +35,5 @@ Orange:
 * Program Chair member of Knowledge Graph Construction Workshop ([KGCW 2023](https://kg-construct.github.io/workshop/2023/)) @ [ESWC 2023](https://2023.eswc-conferences.org/).
 * Participant in the W3C [Knowledge Graph Construction Community Group](https://www.w3.org/community/kg-construct/).
 * Program Chair member of Industry @ [TheWebConf2024](https://www2024.thewebconf.org/calls/industry/).
+* Program Chair member of Knowledge Graph Construction Workshop ([KGCW 2024](https://kg-construct.github.io/workshop/2024/)) @ [ESWC 2024](https://2024.eswc-conferences.org/).
+* Program Chair member of Graph-based Approaches for CyberSecurity workshop ([GRASEC 2024](https://www.ares-conference.eu/workshops/grasec/)) @ [ARES 2024](https://www.ares-conference.eu/).
