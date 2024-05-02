@@ -21,6 +21,14 @@ Orange:
   * *[ssb-consum-up](https://github.com/Orange-OpenSource/ssb-consum-up)*, a Kafka to SPARQL gateway enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.
   * *[SemNIDS](https://github.com/D2KLab/SemNIDS)*, bringing semantics into Network Intrusion Detection Systems.  
 
+D2KLab:
+
+* Facilitating knowledge engineering tasks with large language models.  
+  
+  Related on-line resources,
+  * *[LLM4KE](https://github.com/D2KLab/llm4ke)*, a dataset of RDF data models, and code for generating competency questions.
+
+
 ### Past projects
 
 Orange:
