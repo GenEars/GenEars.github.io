@@ -12,7 +12,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2024.
   "*NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems*"
   In 21st European Semantic Web Conference (ESWC), Resources track, May 26-30, 2024, Hersonissos, Greece.
-  (*ref. to come*) [[IETF119-pres-pdf](pubs/IETF-2024-noria-o.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7659)]
+  [https://doi.org/10.1007/978-3-031-60635-9_2](https://doi.org/10.1007/978-3-031-60635-9_2) [[IETF119-pres-pdf](pubs/IETF-2024-noria-o.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7659)]
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, and Raphaël TRONCY. 2024.
   "*Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs*"
   In The Web Conf, May 13-17, 2024, Singapore.
