@@ -16,7 +16,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, and Raphaël TRONCY. 2024.
   "*Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs*"
   In The Web Conf, May 13-17, 2024, Singapore.
-  [https://doi.org/10.1145/3589335.3651447](https://doi.org/10.1145/3589335.3651447) [[teaser-video](https://www.youtube.com/watch?v=upaMA_YzBZs), [teaser-pdf](pubs/TWC-2024-graphameleon-teaser.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7478)]
+  [https://doi.org/10.1145/3589335.3651447](https://doi.org/10.1145/3589335.3651447) [[teaser-video](https://www.youtube.com/watch?v=upaMA_YzBZs), [teaser-pdf](pubs/TWC-2024-graphameleon-teaser.pdf), [pres-pdf](pubs/TWC-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7478)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
   "*Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems*"
   In The 18th International Conference on Availability, Reliability and Security (ARES 2023), August 29-September 1, 2023, Benevento, Italy.
