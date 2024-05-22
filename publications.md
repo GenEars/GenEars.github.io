@@ -5,6 +5,10 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research papers in conferences
 
+* Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, Raphaël TRONCY. 2024.
+  "*Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances*"
+  In Plate-Forme Intelligence Artificielle (PFIA), IC track, July 01-05, 2024, La Rochelle, France. *Best paper award nominee*.
+  (*ref. to come*) [[EURECOM access](https://www.eurecom.fr/publication/7728)]
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "*Can LLMs generate competency questions?*"
   In 21st European Semantic Web Conference (ESWC), Special Track on Large Language Models for Knowledge Engineering, May 26-30, 2024, Hersonissos, Greece.
@@ -26,12 +30,12 @@ title: Publications - Lionel TAILHARDAT
   "*Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems*"
   In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
   28, 2023, Crete.  
-  CEUR-WS.org, online [CEUR-WS.org/Vol-3471/paper3.pdf](https://ceur-ws.org/Vol-3471/paper3.pdf) [[pres-pdf](pubs/KGCW-2023-noria-platform-pres.pdf)]. 
+  CEUR-WS.org, online [CEUR-WS.org/Vol-3471/paper3.pdf](https://ceur-ws.org/Vol-3471/paper3.pdf) [[pres-pdf](pubs/KGCW-2023-noria-platform-pres.pdf)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2022.
   "*Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering.*"
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
   ACM, New York, NY, USA, 6 pages.
-  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)].
+  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)]
 
 ## Posters, demos and posts
 
