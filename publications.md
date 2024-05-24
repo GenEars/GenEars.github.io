@@ -37,8 +37,9 @@ title: Publications - Lionel TAILHARDAT
   ACM, New York, NY, USA, 6 pages.
   [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)]
 
-## Posters, demos and posts
+## Talks, posters, demos and posts
 
+* Lionel TAILHARDAT. "*Anomaly detection for telco companies: challenges and opportunities in knowledge graph construction*". Keynote at the Fifth International Workshop on Knowledge Graph Construction ([KGCW](https://kg-construct.github.io/workshop/)), 2024 [[pres-pdf](pubs/KGCW-2024-keynote.pdf)].
 * Yoan CHABOT, Lionel TAILHARDAT, Perrine GUILLEMETTE, and Antoine PY. "*NORIA: Network anomaly detection using knowledge graphs*". Blog post, 2024 [[Hello Future](https://hellofuture.orange.com/en/noria-network-anomaly-detection-using-knowledge-graphs/)].
 * Lionel TAILHARDAT, Yoan CHABOT, Perrine GUILLEMETTE, and Antoine PY. "*Semantical anomaly sensing - Recommend remediation solutions using knowledge graphs*". Software platform prototype presented at the Orange Open Tech Days (OOTD), November 2023, Châtillon, France [[event-book](https://hellofuture.orange.com/app/uploads/2023/11/2023-OpenTechDays-book-demonstrations-conferences.pdf)].
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY. "*NORIA : machiNe learning, Ontology and Reasoning for the Identification of Anomalies*". Position poster for the [IA2](https://ia2.gdria.fr/) autumn school. Orange-Eurecom, 2021 september [[pdf](pubs/IA2-2021-NORIA-POSTER.pdf)].
