@@ -8,7 +8,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Yoan CHABOT, Antoine PY, Perrine GUILLEMETTE. 2024.
   "**NORIA UI: Efficient Incident Management on Large-Scale ICT Systems Represented as Knowledge Graphs**"
   In The 19th International Conference on Availability, Reliability and Security (ARES 2024), July 30-August 2, 2024, Vienna, Austria.
-  https://doi.org/10.1145/3664476.3670438
+  [https://doi.org/10.1145/3664476.3670438](https://doi.org/10.1145/3664476.3670438) [[EURECOM access](https://www.eurecom.fr/publication/7767)]
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, Raphaël TRONCY. 2024.
   "**Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances**"
   In Plate-Forme Intelligence Artificielle (PFIA), IC track, July 01-05, 2024, La Rochelle, France.
