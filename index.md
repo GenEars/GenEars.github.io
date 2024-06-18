@@ -12,7 +12,7 @@ You'll find here some elements about my professional activities!
 
 I am a research engineer in the INNOV/DATA-AI department at [Orange Labs Chatillon](https://hellofuture.orange.com/fr/).
 My research is about **knowledge engineering** and **dependability**.
-Linked to this, I'm interrested in,
+Linked to this, I'm interested in,
 
 * Distributed and dynamic systems,
 * Datascience and graph theory,
@@ -31,3 +31,4 @@ Other online channels:
 * [X (twitter)](https://twitter.com/TailhardatL)
 * [ORCID](https://orcid.org/0000-0001-5887-899X)
 * [Google Scholar](https://scholar.google.com/citations?user=L3-8tGYAAAAJ)
+* [GitHub](https://github.com/GenEars)
