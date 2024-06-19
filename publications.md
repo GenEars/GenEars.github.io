@@ -17,7 +17,7 @@ title: Publications - Lionel TAILHARDAT
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "**Can LLMs generate competency questions?**"
   In 21st European Semantic Web Conference (ESWC), Special Track on Large Language Models for Knowledge Engineering, May 26-30, 2024, Hersonissos, Greece.
-  (*ref. to come*) [[EURECOM access](https://www.eurecom.fr/publication/7699)]
+  [hal-04564055](https://hal.science/hal-04564055) [[EURECOM access](https://www.eurecom.fr/publication/7699)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2024.
   "**NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems**"
   In 21st European Semantic Web Conference (ESWC), Resources track, May 26-30, 2024, Hersonissos, Greece.
