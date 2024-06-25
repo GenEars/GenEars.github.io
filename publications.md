@@ -13,7 +13,7 @@ title: Publications - Lionel TAILHARDAT
   "**Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances**"
   In Plate-Forme Intelligence Artificielle (PFIA), IC track, July 01-05, 2024, La Rochelle, France.
   *Best paper award nominee*.
-  (*ref. to come*) [[EURECOM access](https://www.eurecom.fr/publication/7728)]
+  (*ref. to come*) [[pres-pdf](pubs/PFIA-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7728)]
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "**Can LLMs generate competency questions?**"
   In 21st European Semantic Web Conference (ESWC), Special Track on Large Language Models for Knowledge Engineering, May 26-30, 2024, Hersonissos, Greece.
