@@ -32,3 +32,4 @@ Other online channels:
 * [ORCID](https://orcid.org/0000-0001-5887-899X)
 * [Google Scholar](https://scholar.google.com/citations?user=L3-8tGYAAAAJ)
 * [GitHub](https://github.com/GenEars)
+* [IETF Datatracker](https://datatracker.ietf.org/person/Lionel%20Tailhardat)
