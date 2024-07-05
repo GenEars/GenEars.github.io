@@ -6,39 +6,39 @@ title: Publications - Lionel TAILHARDAT
 ## Research papers in conferences
 
 * Lionel TAILHARDAT, Yoan CHABOT, Antoine PY, Perrine GUILLEMETTE. 2024.
-  "**NORIA UI: Efficient Incident Management on Large-Scale ICT Systems Represented as Knowledge Graphs**"
+  "**NORIA UI: Efficient Incident Management on Large-Scale ICT Systems Represented as Knowledge Graphs**".
   In The 19th International Conference on Availability, Reliability and Security (ARES 2024), July 30-August 2, 2024, Vienna, Austria.
   [https://doi.org/10.1145/3664476.3670438](https://doi.org/10.1145/3664476.3670438) [[EURECOM access](https://www.eurecom.fr/publication/7767)]
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, Raphaël TRONCY. 2024.
-  "**Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances**"
-  In Plate-Forme Intelligence Artificielle (PFIA), IC track, July 01-05, 2024, La Rochelle, France.
+  "**Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances**".
+  In 35es Journées francophones d'Ingénierie des Connaissances (IC 2024) @ Plate-Forme Intelligence Artificielle (PFIA 2024), July 01-05, 2024, La Rochelle, France.
   *Best paper award nominee*.
-  (*ref. to come*) [[pres-pdf](pubs/PFIA-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7728)]
+  [hal-04636018](https://hal.science/hal-04636018) [[pres-pdf](pubs/PFIA-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7728), [IC2024 proceedings](https://pfia2024.univ-lr.fr/assets/files/Conf%C3%A9rence-IC/IC2024_Actes.pdf)]
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "**Can LLMs generate competency questions?**"
   In 21st European Semantic Web Conference (ESWC), Special Track on Large Language Models for Knowledge Engineering, May 26-30, 2024, Hersonissos, Greece.
   [hal-04564055](https://hal.science/hal-04564055) [[EURECOM access](https://www.eurecom.fr/publication/7699)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2024.
-  "**NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems**"
+  "**NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems**".
   In 21st European Semantic Web Conference (ESWC), Resources track, May 26-30, 2024, Hersonissos, Greece.
   *Best paper award nominee*.
   [https://doi.org/10.1007/978-3-031-60635-9_2](https://doi.org/10.1007/978-3-031-60635-9_2) [[pres-pdf](pubs/ESWC-2024-noria-o-pres.pdf), [IETF119-pres-pdf](pubs/IETF-2024-noria-o.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7659)]
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, and Raphaël TRONCY. 2024.
-  "**Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs**"
+  "**Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs**".
   In The Web Conf, May 13-17, 2024, Singapore.
   [https://doi.org/10.1145/3589335.3651447](https://doi.org/10.1145/3589335.3651447) [[teaser-video](https://www.youtube.com/watch?v=upaMA_YzBZs), [teaser-pdf](pubs/TWC-2024-graphameleon-teaser.pdf), [pres-pdf](pubs/TWC-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7478)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
-  "**Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems**"
+  "**Leveraging Knowledge Graphs For Classifying Incident Situations in ICT Systems**".
   In The 18th International Conference on Availability, Reliability and Security (ARES 2023), August 29-September 1, 2023, Benevento, Italy.
   ACM, New York, NY, USA, 9 pages.
   [https://doi.org/10.1145/3600160.3604991](https://doi.org/10.1145/3600160.3604991) [[pres-pdf](pubs/GRASEC-2023-noria-ad-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7342)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2023.
-  "**Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems**"
+  "**Designing NORIA: a Knowledge Graph-based Platform for Anomaly Detection and Incident Management in ICT Systems**".
   In KGCW'23: 4th International Workshop on Knowledge Graph Construction, May
   28, 2023, Crete.  
   CEUR-WS.org, online [CEUR-WS.org/Vol-3471/paper3.pdf](https://ceur-ws.org/Vol-3471/paper3.pdf) [[pres-pdf](pubs/KGCW-2023-noria-platform-pres.pdf)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2022.
-  "**Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering.**"
+  "**Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering**".
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
   ACM, New York, NY, USA, 6 pages.
   [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)]
