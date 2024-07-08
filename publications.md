@@ -12,7 +12,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, Raphaël TRONCY. 2024.
   "**Graphaméléon : apprentissage des relations et détection d’anomalies sur les traces de navigation Web capturées sous forme de graphes de connaissances**".
   In 35es Journées francophones d'Ingénierie des Connaissances (IC 2024) @ Plate-Forme Intelligence Artificielle (PFIA 2024), July 01-05, 2024, La Rochelle, France.
-  *Best paper award nominee*.
+  *Best paper award*.
   [hal-04636018](https://hal.science/hal-04636018) [[pres-pdf](pubs/PFIA-2024-graphameleon-pres.pdf), [EURECOM access](https://www.eurecom.fr/publication/7728), [IC2024 proceedings](https://pfia2024.univ-lr.fr/assets/files/Conf%C3%A9rence-IC/IC2024_Actes.pdf)]
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "**Can LLMs generate competency questions?**"
