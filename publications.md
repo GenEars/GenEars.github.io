@@ -17,12 +17,12 @@ title: Publications - Lionel TAILHARDAT
 * Youssra REBBOUD, Lionel TAILHARDAT, Pasquale LISENA, and Raphaël TRONCY. 2024.
   "**Can LLMs generate competency questions?**"
   In 21st European Semantic Web Conference (ESWC), Special Track on Large Language Models for Knowledge Engineering, May 26-30, 2024, Hersonissos, Greece.
-  [hal-04564055](https://hal.science/hal-04564055) [[EURECOM access](https://www.eurecom.fr/publication/7699)]
+  [hal-04564055](https://hal.science/hal-04564055) [[Videolectures.net pres-video](https://videolectures.net/eswc2024_lisena_competency_questions/), [EURECOM access](https://www.eurecom.fr/publication/7699)]
 * Lionel TAILHARDAT, Raphaël TRONCY, and Yoan CHABOT. 2024.
   "**NORIA-O: An Ontology for Anomaly Detection and Incident Management in ICT Systems**".
   In 21st European Semantic Web Conference (ESWC), Resources track, May 26-30, 2024, Hersonissos, Greece.
   *Best paper award nominee*.
-  [https://doi.org/10.1007/978-3-031-60635-9_2](https://doi.org/10.1007/978-3-031-60635-9_2) [[pres-pdf](pubs/ESWC-2024-noria-o-pres.pdf), [IETF119-pres-pdf](pubs/IETF-2024-noria-o.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7659)]
+  [https://doi.org/10.1007/978-3-031-60635-9_2](https://doi.org/10.1007/978-3-031-60635-9_2) [[pres-pdf](pubs/ESWC-2024-noria-o-pres.pdf), [Videolectures.net pres-video](https://videolectures.net/eswc2024_tailhadat_anomaly_detection/), [IETF119-pres-pdf](pubs/IETF-2024-noria-o.pdf), [EURECOM access](https://www.eurecom.fr/fr/publication/7659)]
 * Lionel TAILHARDAT, Benjamin STACH, Yoan CHABOT, and Raphaël TRONCY. 2024.
   "**Graphameleon: Relational Learning and Anomaly Detection on Web Navigation Traces Captured as Knowledge Graphs**".
   In The Web Conf, May 13-17, 2024, Singapore.
@@ -41,7 +41,7 @@ title: Publications - Lionel TAILHARDAT
   "**Walks in Cyberspace: Improving Web Browsing and Network Activity Analysis with 3D Live Graph Rendering**".
   In Companion Proceedings of the Web Conference 2022 (WWW ’22 Companion), April 25–29, 2022, Virtual Event, Lyon, France.
   ACM, New York, NY, USA, 6 pages.
-  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)]
+  [https://doi.org/10.1145/3487553.3524230](https://doi.org/10.1145/3487553.3524230) [[ACM SIGWEB pres-video](https://www.youtube.com/watch?v=X9DxQZellTQ&t=2564s), [pres-pdf](pubs/TWC-2022-dynagraph-pres.pdf)]
 
 ## Talks, posters, demos and posts
 
