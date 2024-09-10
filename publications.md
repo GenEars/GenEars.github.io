@@ -61,9 +61,9 @@ title: Publications - Lionel TAILHARDAT
 ## Research and technical reports
 
 * Lionel TAILHARDAT, Raphaël TRONCY, Yoan CHABOT.
-  "**Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design**" (draft-tailhardat-nmop-incident-management-noria).
+  "**Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design**".
   IETF Internet Draft, NMOP group. 2024.
-  https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/ [[pres-pdf](pubs/IETF-NMOP-2024-draft-tailhardat-nmop-incident-management-noria-pres.pdf)].
+  [draft-tailhardat-nmop-incident-management-noria](https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/) [[pres-pdf](pubs/IETF-NMOP-2024-draft-tailhardat-nmop-incident-management-noria-pres.pdf)].
 * Mihary RANAIVOSON, Lionel TAILHARDAT, et Yoan CHABOT.
   "**Intégration de données dans un graphe de connaissances pour la détection d’anomalies sur le réseau**".
   Mémoire & présentation. Orange & Polytech Marseille, 16 septembre 2022.
