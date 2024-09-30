@@ -88,6 +88,12 @@ title: Publications - Lionel TAILHARDAT
 
 ## Thesis
 
+PhD thesis:
+
+* Lionel TAILHARDAT, supervised by Raphaël TRONCY and Yoan CHABOT.
+  "**Anomaly Detection using Knowledge Graphs and Synergistic Reasoning - Application to Network Management and Cyber Security**".
+  EURECOM & Orange, September 30th 2024 [[pres-pdf](pubs/2024-PhD_Defense_Tailhardat.pdf)].
+
 Datascience thesis:
 
 * Lionel TAILHARDAT.
