@@ -18,10 +18,7 @@ Linked to this, I'm interested in,
 * Datascience and graph theory,
 * Coding schemes and high-perf computing.
 
-I hold a Master degree in *telecommunications technologies* from the [Conservatoire National des Arts & Métiers](http://www.cnam.fr/) (CNAM).
-
-I am currently a PhD candidate supervised by Dr. [Yoan Chabot](https://yoanchabot.github.io/) and Dr. [Raphaël Troncy](https://www.eurecom.fr/~troncy/).
-My work is focused on the synergy of symbolic and probabilistic reasoning to facilitate the analysis of incidents in the field of network operations and cybersecurity (thesis subject [here](https://myedb.edite-de-paris.fr/PRD_View/8053/)).
+I hold a Master degree in *telecommunications technologies* from the [Conservatoire National des Arts & Métiers](http://www.cnam.fr/) (CNAM), and got a PhD in Computer Science in 2024, with a thesis on *Anomaly Detection using Knowledge Graphs and Synergistic Reasoning - Application to Network Management and Cyber Security* (supervised by Dr. [Yoan Chabot](https://yoanchabot.github.io/) and Dr. [Raphaël Troncy](https://www.eurecom.fr/~troncy/)).
 
 Enjoy your visit!
 
