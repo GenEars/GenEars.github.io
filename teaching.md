@@ -5,7 +5,7 @@ title: Teaching - Lionel TAILHARDAT
 
 ## Students (current)
 
-* [2023-2024] Pascal OVIDIU applying for the Data Scientist apprenticeship at the [CFA Orange](https://orange.jobs/site/fr-cfa/): "*Développement backend d'une solution d'analyse de risques en cybersécurité*", co-supervised by Yann DUJARDIN
+* [2023-2025] Pascal OVIDIU applying for the Data Scientist apprenticeship at the [CFA Orange](https://orange.jobs/site/fr-cfa/): "*Développement backend d'une solution d'analyse de risques en cybersécurité*", co-supervised by Yann DUJARDIN
 
 ## Students (past)
 
