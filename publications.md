@@ -5,6 +5,10 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research papers in conferences
 
+* Youssra REBBOUD, Pasquale LISENA, Lionel TAILHARDAT, and Raphaël TRONCY. 2024.
+  "**Benchmarking LLM-based Ontology Conceptualization: A Proposal**".
+  In The 23rd International Semantic Web Conference (ISWC), Special Session on LLMs, November 11–15, 2024, Baltimore, USA.
+  *Ref. to come*.
 * Lionel TAILHARDAT, Yoan CHABOT, Antoine PY, Perrine GUILLEMETTE. 2024.
   "**NORIA UI: Efficient Incident Management on Large-Scale ICT Systems Represented as Knowledge Graphs**".
   In The 19th International Conference on Availability, Reliability and Security (ARES 2024), July 30-August 2, 2024, Vienna, Austria.
