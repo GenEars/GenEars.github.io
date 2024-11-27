@@ -64,6 +64,10 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research and technical reports
 
+* Mohamed BOUCADAIR, Luis Miguel CONTRERAS MURILLO, Oscar GONZALES de DIOS, Thomas GRAF, Reshad RAHMAN, Lionel TAILHARDAT.
+  "**RFC 3535, 20 Years Later: An Update of Operators Requirements on Network Management Protocols and Modelling**".
+  IETF Internet Draft, NMOP group. 2024. [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/).
+  Presented at the IAB workshop on the Next Era of Network Management Operations ([nemopsws](https://datatracker.ietf.org/group/nemopsws/)), 2024-12.
 * Lionel TAILHARDAT, Raphaël TRONCY, Yoan CHABOT.
   "**Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design**".
   IETF Internet Draft, NMOP group. 2024.
