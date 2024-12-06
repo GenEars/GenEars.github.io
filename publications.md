@@ -50,6 +50,9 @@ title: Publications - Lionel TAILHARDAT
 ## Talks, posters, demos and posts
 
 * Lionel TAILHARDAT.
+  "**I want a KG-based Digital Twin, and that's all I (want to) know -- or from Technology Readiness Level 4 to above with Knowledge Engineering and Data Model Operations?**".
+  Presentation at the Knowledge Graphs For Data Integration ([KG4DI](https://u0152642.pages.gitlab.kuleuven.be/kg4di-fwo-network/seminar_5_gent.html)) workshop, FWO Scientific Research Network, De Krook, 2024 [[pres-pdf](pubs/KG4DI-2024-DMOps.pdf)].
+* Lionel TAILHARDAT.
   "**Anomaly detection for telco companies: challenges and opportunities in knowledge graph construction**".
   Keynote at the Fifth International Workshop on Knowledge Graph Construction ([KGCW](https://kg-construct.github.io/workshop/)), 2024 [[pres-pdf](pubs/KGCW-2024-keynote.pdf)].
 * Yoan CHABOT, Lionel TAILHARDAT, Perrine GUILLEMETTE, and Antoine PY.
