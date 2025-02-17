@@ -67,9 +67,12 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research and technical reports
 
+* Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY.
+  "**Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application**".
+  Preprint. 2025. [hal-04930539](https://hal.science/hal-04930539).
 * Didier BRINGER, Lionel TAILHARDAT.
   "**DSecO: Domain Name System (DNS) Data as a Knowledge Graph for Enhanced Security Analysis**".
-  Preprint. 2024. [hal-04887392](https://hal.science/hal-04887392).
+  Preprint. 2025. [hal-04887392](https://hal.science/hal-04887392).
 * Mohamed BOUCADAIR, Luis Miguel CONTRERAS MURILLO, Oscar GONZALES de DIOS, Thomas GRAF, Reshad RAHMAN, Lionel TAILHARDAT.
   "**RFC 3535, 20 Years Later: An Update of Operators Requirements on Network Management Protocols and Modelling**".
   IETF Internet Draft, NMOP group. 2024. [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/).
