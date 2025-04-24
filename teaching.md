@@ -3,11 +3,13 @@ layout: default
 title: Teaching - Lionel TAILHARDAT
 ---
 
-## Students (current)
+## Students
+
+### Current
 
 * [2023-2025] **Ovidiu PASCAL** applying for the Data Scientist apprenticeship at the [CFA Orange](https://orange.jobs/site/fr-cfa/): "*Développement backend d'une solution d'analyse de risques en cybersécurité*", co-supervised by [Yann DUJARDIN](https://scholar.google.com/citations?hl=fr&user=bkBCKa8AAAAJ).
 
-## Students (past)
+### Past
 
 * [2023] **Benjamin STACH** for his final year internship at [UTBM](https://www.utbm.fr/) in Computer Science: "*Graphameleon: Détection d'activités illicites*", co-supervised by Yoan CHABOT (on-line resources: [Graphameleon](https://github.com/Orange-OpenSource/graphameleon) & [Graphameleon dataset](https://github.com/Orange-OpenSource/graphameleon-ds)).
 * [2022] **Yash AGARWALLA** and **Dario FERRERO** for their Engineer's degree student project at [EURECOM Sophia-Antipolis](https://www.eurecom.fr/) in Computer Science: "*SemNIDS: Bringing Semantics into Network Intrusion Detection Systems*", co-supervised by Thibault EHRHART and Raphaël TRONCY (on-line resources: [SemNIDS](https://github.com/D2KLab/SemNIDS)).
