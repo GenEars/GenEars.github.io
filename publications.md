@@ -81,7 +81,8 @@ title: Publications - Lionel TAILHARDAT
   "**Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design**".
   IETF Internet Draft, NMOP group. 2024.
   [draft-tailhardat-nmop-incident-management-noria](https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria/).
-  Presented at the IETF [NMOP interim meeting n°3](https://datatracker.ietf.org/meeting/interim-2024-nmop-03/session/nmop), 2024-09-11 [[pres-pdf](pubs/IETF-NMOP-2024-draft-tailhardat-nmop-incident-management-noria-pres.pdf)].
+  Presented at the [IETF NMOP 2024 interim meeting n°3](https://datatracker.ietf.org/meeting/interim-2024-nmop-03/session/nmop) [[IETF-NMOP-2024-09-11-pres-pdf](pubs/IETF-NMOP-2024-draft-tailhardat-nmop-incident-management-noria-pres.pdf)], and [IETF NMOP 2025 interim meeting n°3](https://datatracker.ietf.org/doc/agenda-interim-2025-nmop-03-nmop-01/)
+  [[IETF-NMOP-2025-05-21-pres-pdf](pubs/IETF-NMOP-2025-draft-tailhardat-nmop-incident-management-noria-02-pres.pdf)].
 * Mihary RANAIVOSON, Lionel TAILHARDAT, et Yoan CHABOT.
   "**Intégration de données dans un graphe de connaissances pour la détection d’anomalies sur le réseau**".
   Mémoire & présentation. Orange & Polytech Marseille, 16 septembre 2022.
