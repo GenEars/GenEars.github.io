@@ -9,7 +9,7 @@ title: Teaching - Lionel TAILHARDAT
 
 * [2025-2027] **Gabriel FOMI** for his Engineer's degree apprenticeship at [ISEP](https://www.isep.fr/) in Computer Science: "*Etudes & développement backend de solutions de gouvernance des données utilisant les
   technologies du Web sémantique*".
-* [2025-2026] **Raphaël des BOSCS**, **Andrea SIGNORETTI**, **Paul CHICHE**, **Arthur de la CROIX de CASTRIES** ,and  **Qile LIU** for their Engineer's degree collective research project ([PSC](https://www.polytechnique.edu/fondation/les-missions/accompagner-les-eleves/les-projets-scientifiques-collectifs-psc)) at the [X - Ecole Polytechnique](https://www.polytechnique.edu/): "*Multi-agent synergistic reasoning*".
+* [2025-2026] **Raphaël des BOSCS**, **Andrea SIGNORETTI**, **Paul CHICHE**, **Arthur de la CROIX de CASTRIES**, and  **Qile LIU** for their Engineer's degree collective research project ([PSC](https://www.polytechnique.edu/fondation/les-missions/accompagner-les-eleves/les-projets-scientifiques-collectifs-psc)) at the [X - Ecole Polytechnique](https://www.polytechnique.edu/): "*Multi-agent synergistic reasoning*".
 * [2023-2025] **Ovidiu PASCAL** applying for the Data Scientist apprenticeship at the [CFA Orange](https://orange.jobs/site/fr-cfa/): "*Développement backend d'une solution d'analyse de risques en cybersécurité*", co-supervised by [Yann DUJARDIN](https://scholar.google.com/citations?user=bkBCKa8AAAAJ).
 
 ### Past
