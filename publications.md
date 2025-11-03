@@ -80,6 +80,9 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research and technical reports
 
+* Michael MACKEY, Bohdan YERIEMIENKO, Beyza YAMAN BEYZA, Lionel TAILHARDAT, Pauline FOLZ.
+  "**Knowledge Graphs For Network Operations**".
+  IETF 124 Hackathon project presentation, 2025-11. [[ietf-124-wiki](https://wiki.ietf.org/meeting/124/hackathon#knowledge-graphs-for-network-operations), [pres-pdf](pubs/IETF-124-Hackaton-KnowledgeGraph_For_Network_Operations.pdf)]
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY.
   "**Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application**".
   Preprint. 2025. [hal-04930539](https://hal.science/hal-04930539).
