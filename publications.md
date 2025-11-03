@@ -85,7 +85,7 @@ title: Publications - Lionel TAILHARDAT
   Preprint. 2025. [hal-04930539](https://hal.science/hal-04930539).
 * Mohamed BOUCADAIR, Luis Miguel CONTRERAS MURILLO, Oscar GONZALES de DIOS, Thomas GRAF, Reshad RAHMAN, Lionel TAILHARDAT.
   "**RFC 3535, 20 Years Later: An Update of Operators Requirements on Network Management Protocols and Modelling**".
-  IETF Internet Draft, NMOP group. 2024. [draft-boucadair-nmop-rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/).
+  IETF Internet Draft, NMOP group. 2024. [draft-boucadair-nmop-rfc3535-20years-later-00](https://datatracker.ietf.org/doc/draft-boucadair-nmop-rfc3535-20years-later/00/).
   Presented at the IAB workshop on the Next Era of Network Management Operations ([nemopsws](https://datatracker.ietf.org/group/nemopsws/)), 2024-12.
 * Lionel TAILHARDAT, Raphaël TRONCY, Yoan CHABOT.
   "**Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design**".
@@ -117,20 +117,20 @@ title: Publications - Lionel TAILHARDAT
 
 ## Thesis
 
-PhD thesis:
+### PhD thesis
 
 * Lionel TAILHARDAT, supervised by Raphaël TRONCY and Yoan CHABOT.
   "**Anomaly Detection using Knowledge Graphs and Synergistic Reasoning - Application to Network Management and Cyber Security**".
   EURECOM & Orange, September 30th 2024.
   [NNT:2024SORUS293](https://theses.fr/2024SORUS293) [[manuscript](https://theses.hal.science/tel-04831512), [pres-pdf](pubs/2024-PhD_Defense_Tailhardat.pdf)].
 
-Datascience thesis:
+### Datascience thesis
 
 * Lionel TAILHARDAT.
   "**Localisation d’un incident en moins de 15 minutes, une approche par les graphes**".
   Mémoire & présentation. Orange & Polytech, 23 mai 2019.
 
-Master thesis:
+### Master thesis
 
 * Lionel TAILHARDAT.
   "**Automatisation des tests de redondance du réseau Orange M.I.D.**".
@@ -138,12 +138,14 @@ Master thesis:
 * Lionel TAILHARDAT.
   "**Les techniques de géolocalisation en WIFI: principes, performances, comparaison**".
   Synthèse bibliographique & tests. CNAM, 24 mai 2016.
+  [[manuscript](pubs/CNAM-2016-UA311X-WIFI-geoloc.pdf)]
 * Lionel TAILHARDAT, et Arsène MOUAMBOUMA.
   "**xDSL (VDSL, SDSL, ...) : la montée en débit**".
   Présentation. CNAM, 7 avril 2016.
 * Lionel TAILHARDAT.
   "**Télécommunications spatiales et espace lointain: caractéristiques, performances, perspectives**".
   Présentation. CNAM, 12 décembre 2015.
+  [[pres-pdf](pubs/CNAM-2025-ELE124-DeepSpace-Telco.pdf)]
 * Lionel TAILHARDAT.
   "**Supervision des transmissions audiovisuelles en contexte d’opérateur**".
   Mémoire & présentation. GlobeCast France & CNAM, décembre 2013.
