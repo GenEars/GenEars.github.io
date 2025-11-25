@@ -61,7 +61,7 @@ title: Publications - Lionel TAILHARDAT
 
 * Didier BRINGER, Lionel TAILHARDAT, Antoine CAWET.
   "**Vous avez un problème avec vos URLs mais vous ne le savez pas**".
-  Presentation at the [Azur Tech Winter](https://www.telecom-valley.fr/azurtechwinter/) workshop, Telecom Valley, Université Côte d'Azur, 2025 [[pres-pdf](pubs/2025-AzurTech-DSecO-pres.pdf)].
+  Presentation at the [Azur Tech Winter](https://www.telecom-valley.fr/azurtechwinter/) workshop, Telecom Valley, Université Côte d'Azur, 2025 [[pres-pdf](pubs/AzurTech-2025-DSecO-pres.pdf)].
 * Lionel TAILHARDAT.
   "**Anomaly Detection using Knowledge Graphs and Synergistic Reasoning**".
   Presentation at the L’Ingénierie des Connaissances à l'ère de l'apprentissage Neuro-Symbolique, des Modèles HYbrides et autres approches ([HYNSIC](https://www.madics.fr/event/conf544/)) day, Association [EGC](https://www.egc.asso.fr/), Paris, 2025 [[pres-pdf](pubs/HYNSIC-2025-noria.pdf)].
