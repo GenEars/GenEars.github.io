@@ -62,6 +62,9 @@ title: Publications - Lionel TAILHARDAT
 * Didier BRINGER, Lionel TAILHARDAT, Antoine CAWET.
   "**Vous avez un problème avec vos URLs mais vous ne le savez pas**".
   Presentation at the [Azur Tech Winter](https://www.telecom-valley.fr/azurtechwinter/) workshop, Telecom Valley, Université Côte d'Azur, 2025 [[pres-pdf](pubs/AzurTech-2025-DSecO-pres.pdf)].
+* Michel BROCHARD, Lionel TAILHARDAT, Charles PAPIN, Dimitri FONTANILLE, Florent GROSMAITRE, Meriem SENHAJI, Alexandre MORET, Jean Charles FAUGERE.
+  "**LiveCryptography post-quantum**".
+  Software platform prototype presented at the Orange OpenTech, November 2025, Châtillon, France. 
 * Lionel TAILHARDAT.
   "**Anomaly Detection using Knowledge Graphs and Synergistic Reasoning**".
   Presentation at the L’Ingénierie des Connaissances à l'ère de l'apprentissage Neuro-Symbolique, des Modèles HYbrides et autres approches ([HYNSIC](https://www.madics.fr/event/conf544/)) day, Association [EGC](https://www.egc.asso.fr/), Paris, 2025 [[pres-pdf](pubs/HYNSIC-2025-noria.pdf)].
@@ -76,7 +79,7 @@ title: Publications - Lionel TAILHARDAT
   Blog post, 2024 [[Hello Future](https://hellofuture.orange.com/en/noria-network-anomaly-detection-using-knowledge-graphs/)].
 * Lionel TAILHARDAT, Yoan CHABOT, Perrine GUILLEMETTE, and Antoine PY.
   "**Semantical anomaly sensing - Recommend remediation solutions using knowledge graphs**".
-  Software platform prototype presented at the Orange Open Tech Days (OOTD), November 2023, Châtillon, France [[event-book](https://hellofuture.orange.com/app/uploads/2023/11/2023-OpenTechDays-book-demonstrations-conferences.pdf)].
+  Software platform prototype presented at the Orange Open Tech Days (OOTD), November 2023, Châtillon, France [[event-book](pubs/2023-OpenTechDays-book-demonstrations-conferences.pdf)].
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY.
   "**NORIA : machiNe learning, Ontology and Reasoning for the Identification of Anomalies**".
   Position poster for the [IA2](https://ia2.gdria.fr/) autumn school. Orange-Eurecom, 2021 september [[pdf](pubs/IA2-2021-NORIA-POSTER.pdf)].
