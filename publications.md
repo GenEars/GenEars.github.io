@@ -53,7 +53,7 @@ title: Publications - Lionel TAILHARDAT
 
 * Didier BRINGER, Lionel TAILHARDAT.
   "**DSecO: Domain Name System (DNS) Data as a Knowledge Graph for Enhanced Security Analysis**".
-  IEEE Transactions on Networking -- Special Issue on AI and Networking, 2025, vol. xx, number xx, pages xx--xx, 
+  IEEE Transactions on Networking -- Special Issue on AI and Networking, 2025, vol. 34, pages 370-383, 
   [10.1109/TON.2025.3598374](https://doi.org/10.1109/TON.2025.3598374)
   [[preprint-hal-04887392](https://hal.science/hal-04887392)].
 
@@ -86,6 +86,9 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research and technical reports
 
+* Adrien BUFORT, Lionel TAILHARDAT.
+  "**FGdiffusion: Large-Scale Knowledge Graph Generation Using a Diffusion Approach**".
+  Preprint. 2025. [hal-05410352](https://hal.science/hal-05410352).
 * Michael MACKEY, Bohdan YERIEMIENKO, Beyza YAMAN BEYZA, Lionel TAILHARDAT, Pauline FOLZ.
   "**Knowledge Graphs For Network Operations**".
   IETF 124 Hackathon project presentation, 2025-11. [[ietf-124-wiki](https://wiki.ietf.org/meeting/124/hackathon#knowledge-graphs-for-network-operations), [pres-pdf](pubs/IETF-124-Hackaton-KnowledgeGraph_For_Network_Operations.pdf)]
