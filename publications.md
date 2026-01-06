@@ -53,7 +53,7 @@ title: Publications - Lionel TAILHARDAT
 
 * Didier BRINGER, Lionel TAILHARDAT.
   "**DSecO: Domain Name System (DNS) Data as a Knowledge Graph for Enhanced Security Analysis**".
-  IEEE Transactions on Networking -- Special Issue on AI and Networking, 2025, vol. 34, pages 370-383, 
+  IEEE Transactions on Networking -- Special Issue on AI and Networking, 2026, vol. 34, pages 370-383, 
   [10.1109/TON.2025.3598374](https://doi.org/10.1109/TON.2025.3598374)
   [[preprint-hal-04887392](https://hal.science/hal-04887392)].
 
