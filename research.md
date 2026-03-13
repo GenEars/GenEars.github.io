@@ -7,18 +7,21 @@ title: Research - Lionel TAILHARDAT
 
 ### Current projects
 
-Orange:
+#### Orange
 
-* AI4Sec: Exploring how AI can enhance the security of networks and operations (2025 - ongoing).
+* **AI4Sec**, exploring how AI can enhance the security of networks and operations (2025 - ongoing).
 
   Related on-line resources,
   * *[DSecO](https://w3id.org/dseco/)*, an RDF data model for DNS configuration assessment.
 
-* Knowledge Graphs at the company scale (2025 - on-going).
-
+* **Knowledge Graphs at the company scale** (2025 - on-going). 
   See the "*I want a KG-based Digital Twin, and that's all I (want to) know*" presentation (2024) [[pres-pdf](pubs/KG4DI-2024-DMOps.pdf)] made at the [KG4DI](https://u0152642.pages.gitlab.kuleuven.be/kg4di-fwo-network/seminar_5_gent.html) workshop for an overview of the challenges to be addressed.
 
-D2KLab:
+  Related on-line resources,
+  * *[Ontology2Graph](https://github.com/Orange-OpenSource/Ontology2Graph)*, generating synthetic knowledge graphs using generative AI and graph fusion, taking an RDFS/OWL ontology as input.
+  * *[PyGraft-gen](https://github.com/Orange-OpenSource/pygraft-gen)*, generating synthetic knowledge graphs using a stochastic approach, taking an RDFS/OWL ontology as input. Post-generation graph matching helps assess the adequacy of the knowledge graph for a specific application domain.
+
+#### D2KLab
 
 * Facilitating knowledge engineering tasks with large language models (2024 - ongoing).
   
@@ -28,9 +31,9 @@ D2KLab:
 
 ### Past projects
 
-Orange:
+#### Orange
 
-* Synergy between knowledge graphs and machine learning for the detection of anomalies (2020 - 2024).
+* **NORIA**, synergy between knowledge graphs and machine learning for the detection of anomalies (2020 - 2024).
 
   Related on-line resources,
   * *[NORIA-O](https://w3id.org/noria/)*, an RDF data model for IT networks, events and operations information.
@@ -46,10 +49,11 @@ Orange:
 
 * Merging graphs and time-series techniques to predict network issues and reduce the root-cause search space (2018 - 2019).
 * Knowledge and process mining on network issues remediation to facilitate root-cause analysis and remediation automation (2018 - 2019).
-* Automating the resilience tests of an IP-MPLS backbone (2017 - 2018).
+* **MID-RED**, automating the resilience tests of an IP-MPLS backbone (2017 - 2018).
 
 ## Activities
 
 * *Standardization*: contributor to the W3C [Knowledge Graph Construction Community Group](https://www.w3.org/community/kg-construct/); IETF [Network Management Operations](https://datatracker.ietf.org/wg/nmop/about/) (NMOP) group; IETF NMOP Knowledge Graph Design Team.
+* *Program organizing committee*: [ATLAS](https://atlas.liris.cnrs.fr/) workshop @ [ICWE'2026](https://icwe2026.webengineering.org/).
 * *Program Chair member*: Industry @ [TheWebConf2023](https://www2023.thewebconf.org/); Knowledge Graph Construction Workshop ([KGCW 2023](https://kg-construct.github.io/workshop/2023/)) @ [ESWC 2023](https://2023.eswc-conferences.org/); Industry @ [TheWebConf2024](https://www2024.thewebconf.org/calls/industry/); Knowledge Graph Construction Workshop ([KGCW 2024](https://kg-construct.github.io/workshop/2024/)) @ [ESWC 2024](https://2024.eswc-conferences.org/); Graph-based Approaches for CyberSecurity workshop ([GRASEC 2024](https://www.ares-conference.eu/workshops/grasec/)) @ [ARES 2024](https://www.ares-conference.eu/); Resources @ [ESWC 2025](https://2025.eswc-conferences.org/); Research @ [ISWC 2025](https://iswc2025.semanticweb.org/).
 * *Reviewer for journals*: Semantic Web journal ([IOS Press SWJ](https://www.semantic-web-journal.net/)); Transactions on Software Engineering ([IEEE TS](https://www.computer.org/csdl/journal/ts)); Future Generation Computer Systems ([Elsevier FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems)).
