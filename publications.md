@@ -86,6 +86,9 @@ title: Publications - Lionel TAILHARDAT
 
 ## Research and technical reports
 
+* Lionel TAILHARDAT, Ovidiu PASCAL, Nicolas HUBERT.
+  "**Exploring Schema-and Pattern-Constrained Knowledge Graph Generation with PyGraft-gen**".
+  Preprint. 2026. [hal-05510112](https://hal.science/hal-05510112).
 * Adrien BUFORT, Lionel TAILHARDAT.
   "**FGdiffusion: Large-Scale Knowledge Graph Generation Using a Diffusion Approach**".
   Preprint. 2025. [hal-05410352](https://hal.science/hal-05410352).
