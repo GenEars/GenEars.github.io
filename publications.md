@@ -59,6 +59,9 @@ title: Publications - Lionel TAILHARDAT
 
 ## Talks, posters, demos and posts
 
+* Didier BRINGER, Lionel TAILHARDAT.
+  "**Domain Hijacking, Cookie Theft, and Conducting Quality DNS Audits: How to Protect Your Company and Improve Your Cyber-Rating?**".
+  Blog post, 2026 [[Hello Future](https://hellofuture.orange.com/en/domain-hijacking-cookie-theft-and-conducting-quality-dns-audits-how-to-protect-your-company-and-improve-your-cyber-rating/)].
 * Didier BRINGER, Lionel TAILHARDAT, Antoine CAWET.
   "**Vous avez un problème avec vos URLs mais vous ne le savez pas**".
   Presentation at the [Azur Tech Winter](https://www.telecom-valley.fr/azurtechwinter/) workshop, Telecom Valley, Université Côte d'Azur, 2025 [[pres-pdf](pubs/AzurTech-2025-DSecO-pres.pdf)].
