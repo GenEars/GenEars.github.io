@@ -25,10 +25,14 @@ Enjoy your visit!
 
 Other online channels:
 
-* [LinkedIn](https://www.linkedin.com/in/lionel-tailhardat-566510120/)
-* [X (twitter)](https://twitter.com/TailhardatL)
-* [ORCID](https://orcid.org/0000-0001-5887-899X)
-* [IDHAL](https://cv.archives-ouvertes.fr/lionel-tailhardat)
-* [Google Scholar](https://scholar.google.com/citations?user=L3-8tGYAAAAJ)
-* [GitHub](https://github.com/GenEars)
-* [IETF Datatracker](https://datatracker.ietf.org/person/Lionel%20Tailhardat)
+* Researcher Hubs
+  * [ORCID](https://orcid.org/0000-0001-5887-899X)
+  * [IDHAL](https://cv.archives-ouvertes.fr/lionel-tailhardat)
+  * [Google Scholar](https://scholar.google.com/citations?user=L3-8tGYAAAAJ)
+  * [Web of Science](https://www.webofscience.com/wos/author/record/PVD-8553-2026)
+  * [IETF Datatracker](https://datatracker.ietf.org/person/Lionel%20Tailhardat)
+* Technical Hubs
+  * [GitHub](https://github.com/GenEars)
+* Social Networks
+    * [LinkedIn](https://www.linkedin.com/in/lionel-tailhardat-566510120/)
+      * [X (twitter)](https://twitter.com/TailhardatL)

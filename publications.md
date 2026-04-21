@@ -59,6 +59,9 @@ title: Publications - Lionel TAILHARDAT
 
 ### In journals
 
+* Lionel TAILHARDAT, Benjamin STACH, Eric PETIT, Yoan CHABOT, Raphaël TRONCY, Thibault EHRHART.
+  "**Graphaméléon : capturer des traces de navigation Web avec des graphes de connaissances et caractériser les micro activités pour détecter des cyber-attaques**".
+  Revue Ouverte d’Intelligence Artificielle (ROIA), 2026. *(to come)*
 * Didier BRINGER, Lionel TAILHARDAT.
   "**DSecO: Domain Name System (DNS) Data as a Knowledge Graph for Enhanced Security Analysis**".
   IEEE Transactions on Networking -- Special Issue on AI and Networking, 2026, vol. 34, pages 370-383, 
