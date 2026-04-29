@@ -14,7 +14,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Joanna BALCERZAK, Arij ELMAJED, Pano MARIA, and Gabriel FOMI-NGAMENI. 2026.
   "**Shifting Models Left: End-to-End Traceability as a Foundation for Knowledge Graphs as Data Products**".
   In The 7th International Workshop on Knowledge Graph Construction (KGCW 2026).
-  *(to come)*
+  *(to come)* [[pres-pdf](pubs/KGCW-2026-shifting-models-left-pres.pdf)]
 * Youssra REBBOUD, Pasquale LISENA, Lionel TAILHARDAT, and Raphaël TRONCY. 2024.
   "**Benchmarking LLM-based Ontology Conceptualization: A Proposal**".
   In The 23rd International Semantic Web Conference (ISWC), Special Session on LLMs, November 11–15, 2024, Baltimore, USA.
