@@ -21,15 +21,14 @@ title: Research - Lionel TAILHARDAT
   * *[Ontology2Graph](https://github.com/Orange-OpenSource/Ontology2Graph)*, generating synthetic knowledge graphs using generative AI and graph fusion, taking an RDFS/OWL ontology as input.
   * *[PyGraft-gen](https://github.com/Orange-OpenSource/pygraft-gen)*, generating synthetic knowledge graphs using a stochastic approach, taking an RDFS/OWL ontology as input. Post-generation graph matching helps assess the adequacy of the knowledge graph for a specific application domain.
 
+### Past projects
+
 #### D2KLab
 
-* Facilitating knowledge engineering tasks with large language models (2024 - ongoing).
-  
+* Facilitating knowledge engineering tasks with large language models (2024 - 2025).
+
   Related on-line resources,
-  * *[LLM4KE](https://github.com/D2KLab/llm4ke)*, a dataset of RDF data models, and code for generating competency questions.
-
-
-### Past projects
+    * *[LLM4KE](https://github.com/D2KLab/llm4ke)*, a dataset of RDF data models, and code for generating competency questions.
 
 #### Orange
 
