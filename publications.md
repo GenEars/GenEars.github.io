@@ -10,7 +10,7 @@ title: Publications - Lionel TAILHARDAT
 * Philippe DOOZE, Lionel TAILHARDAT, Ovidiu PASCAL. 2026.
   "**Sur la génération de grands graphes de connaissances à l’aide de modèles de langage (LLM) via une approche Ontology2Graph**".
   In 37es Journées francophones d'Ingénierie des Connaissances (IC 2026) @ Plate-Forme Intelligence Artificielle (PFIA 2026).
-  *(ref to come)* [[pres-pdf](pubs/IC-PFIA-2026-Ontology2Graph-pres.pdf), [camera-ready-paper](https://openreview.net/pdf?id=yhWrHWC1jl)].
+  *(ref to come)* [[pres-pdf](pubs/PFIA-2026-Ontology2Graph-pres.pdf), [camera-ready-paper](https://openreview.net/pdf?id=yhWrHWC1jl)].
 * Lionel TAILHARDAT, Joanna BALCERZAK, Arij ELMAJED, Pano MARIA, and Gabriel FOMI-NGAMENI. 2026.
   "**Shifting Models Left: End-to-End Traceability as a Foundation for Knowledge Graphs as Data Products**".
   In The 7th International Workshop on Knowledge Graph Construction (KGCW 2026).
