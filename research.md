@@ -20,6 +20,7 @@ title: Research - Lionel TAILHARDAT
   Related on-line resources,
   * *[Ontology2Graph](https://github.com/Orange-OpenSource/Ontology2Graph)*, generating synthetic knowledge graphs using generative AI and graph fusion, taking an RDFS/OWL ontology as input.
   * *[PyGraft-gen](https://github.com/Orange-OpenSource/pygraft-gen)*, generating synthetic knowledge graphs using a stochastic approach, taking an RDFS/OWL ontology as input. Post-generation graph matching helps assess the adequacy of the knowledge graph for a specific application domain.
+  * *[FGdiffusion](https://github.com/Orange-OpenSource/fgdiffusion)*, generating synthetic knowledge graphs using a diffusion model and a constrained inference technique to produce graphs that are compliant to a reference ontology.
 
 ### Past projects
 
