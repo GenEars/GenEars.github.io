@@ -59,6 +59,10 @@ title: Publications - Lionel TAILHARDAT
 
 ### In journals
 
+* Lionel TAILHARDAT, Raphaël TRONCY, Yoan CHABOT.
+  "**Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application**".
+  ACM, CSUR, 2026.
+  *(to come)* [[preprint-hal-04930539](https://hal.science/hal-04930539)].
 * Lionel TAILHARDAT, Benjamin STACH, Eric PETIT, Yoan CHABOT, Raphaël TRONCY, Thibault EHRHART.
   "**Graphaméléon : capturer des traces de navigation Web avec des graphes de connaissances et caractériser les micro activités pour détecter des cyber-attaques**".
   Revue Ouverte d’Intelligence Artificielle (ROIA), 2026. *(to come)*
@@ -109,9 +113,6 @@ title: Publications - Lionel TAILHARDAT
 * Michael MACKEY, Bohdan YERIEMIENKO, Beyza YAMAN BEYZA, Lionel TAILHARDAT, Pauline FOLZ.
   "**Knowledge Graphs For Network Operations**".
   IETF 124 Hackathon project presentation, 2025-11. [[ietf-124-wiki](https://wiki.ietf.org/meeting/124/hackathon#knowledge-graphs-for-network-operations), [pres-pdf](pubs/IETF-124-Hackaton-KnowledgeGraph_For_Network_Operations.pdf)]
-* Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY.
-  "**Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application**".
-  Preprint. 2025. [hal-04930539](https://hal.science/hal-04930539).
 * Tong HU, Luis M. CONTRERAS, Qin WU, Nigel DAVIS, Chong FENG.
   "**A YANG Data Model for Network Incident Management**".
   IETF Internet Draft, NMOP group. 2025. [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/).
