@@ -62,7 +62,7 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Raphaël TRONCY, Yoan CHABOT.
   "**Anomaly Detection using Knowledge Graphs: A Survey for Network Management and Cybersecurity Application**".
   ACM, CSUR, 2026.
-  *(to come)* [[preprint-hal-04930539](https://hal.science/hal-04930539)].
+  [10.1145/3830090](https://doi.org/10.1145/3830090) [[preprint-hal-04930539](https://hal.science/hal-04930539)].
 * Lionel TAILHARDAT, Benjamin STACH, Eric PETIT, Yoan CHABOT, Raphaël TRONCY, Thibault EHRHART.
   "**Graphaméléon : capturer des traces de navigation Web avec des graphes de connaissances et caractériser les micro activités pour détecter des cyber-attaques**".
   Revue Ouverte d’Intelligence Artificielle (ROIA), 2026. *(to come)*
