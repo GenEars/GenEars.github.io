@@ -35,4 +35,4 @@ Other online channels:
   * [GitHub](https://github.com/GenEars)
 * Social Networks
     * [LinkedIn](https://www.linkedin.com/in/lionel-tailhardat-566510120/)
-      * [X (twitter)](https://twitter.com/TailhardatL)
+    * [X (twitter)](https://twitter.com/TailhardatL)
