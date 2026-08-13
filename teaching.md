@@ -7,6 +7,8 @@ title: Teaching - Lionel TAILHARDAT
 
 ### Current
 
+* [2026-2028] **Mathis GIBOUIN** for his Engineer's degree apprenticeship at [ISEP](https://www.isep.fr/) in Computer Science: "*NDT-Link : Etude & développement de solutions de fédération de requêtes sur des jumeaux numériques utilisant les technologies du Web sémantique*", co-supervised by [Marc-Antoine MOUILLERON](https://www.linkedin.com/in/marcantoinemouilleron/).
+* [2026-2027] **Patrick SCHULER** for his reskilling at [Orange](https://www.orange.com/) in Datascience, co-supervised by Nancy PERROT and [Didier BRINGER](https://www.linkedin.com/in/didier-bringer-0738a82b/).
 * [2025-2027] **Gabriel FOMI** for his Engineer's degree apprenticeship at [ISEP](https://www.isep.fr/) in Computer Science: "*Etudes & développement backend de solutions de gouvernance des données utilisant les
   technologies du Web sémantique*".
 * [2025-2026] **Raphaël des BOSCS**, **Andrea SIGNORETTI**, **Paul CHICHE**, **Arthur de la CROIX de CASTRIES**, and  **Qile LIU** for their Engineer's degree collective research project ([PSC](https://www.polytechnique.edu/fondation/les-missions/accompagner-les-eleves/les-projets-scientifiques-collectifs-psc)) at the [X - Ecole Polytechnique](https://www.polytechnique.edu/): "*Multi-agent synergistic reasoning*".
