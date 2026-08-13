@@ -74,6 +74,9 @@ title: Publications - Lionel TAILHARDAT
 
 ## Talks, posters, demos and posts
 
+* Lionel TAILHARDAT, Arij ELMAJED.
+  "**Accelerating the Development of Digital Twins for Networks Using the LOT4KG Methodology**".
+  Blog post, 2026 [[Hello Future](https://hellofuture.orange.com/en/accelerating-the-development-of-digital-twins-for-networks-using-the-lot4kg-methodology/)].
 * Didier BRINGER, Lionel TAILHARDAT.
   "**Domain Hijacking, Cookie Theft, and Conducting Quality DNS Audits: How to Protect Your Company and Improve Your Cyber-Rating?**".
   Blog post, 2026 [[Hello Future](https://hellofuture.orange.com/en/domain-hijacking-cookie-theft-and-conducting-quality-dns-audits-how-to-protect-your-company-and-improve-your-cyber-rating/)].
