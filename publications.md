@@ -101,6 +101,9 @@ title: Publications - Lionel TAILHARDAT
 * Lionel TAILHARDAT, Yoan CHABOT, Perrine GUILLEMETTE, and Antoine PY.
   "**Semantical anomaly sensing - Recommend remediation solutions using knowledge graphs**".
   Software platform prototype presented at the Orange Open Tech Days (OOTD), November 2023, Châtillon, France [[event-book](pubs/2023-OpenTechDays-book-demonstrations-conferences.pdf)].
+* Yann DUJARDIN, Nancy PERROT, Morgan CHOPIN, and Lionel TAILHARDAT.
+  "**Dynamic counter-measure placements for network security: a hybrid AI/OR approach**".
+  Presentation at the [ROADEF](https://roadef2023.sciencesconf.org/) conference, 2023 [[summary-pdf](https://roadef2023.sciencesconf.org/437374/DUJARDIN_ET_AL_ROADEF_2023_fr.pdf)].
 * Lionel TAILHARDAT, Yoan CHABOT, Raphaël TRONCY.
   "**NORIA : machiNe learning, Ontology and Reasoning for the Identification of Anomalies**".
   Position poster for the [IA2](https://ia2.gdria.fr/) autumn school. Orange-Eurecom, 2021 september [[pdf](pubs/IA2-2021-NORIA-POSTER.pdf)].
